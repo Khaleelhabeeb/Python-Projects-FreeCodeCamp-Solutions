@@ -22,4 +22,3 @@ The `test_module.py` in each project folder is provided by FreeCodeCamp to test 
 
 **Happy coding and learning!**
 
-(https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)
